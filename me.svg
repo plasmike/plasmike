@@ -51,7 +51,7 @@
     <tspan x="-150" y="550">                            ".        $                 </tspan>
 </text>
 
-  <text x="400" y="30" fill="#bcc4e6" font-size="20">
+  <text x="400" y="30" fill="#bcc4e6" font-size="21">
     <tspan x="400" y="30" class="keyword">class</tspan><tspan class="class_name"> Human</tspan>
     <tspan x="400" y="50" class="keyword">    def</tspan><tspan class="function"> __init__</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>, </tspan><tspan class="parameter">first_name</tspan><tspan>):</tspan>
     <tspan x="400" y="70" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">first_name </tspan><tspan>= first_name</tspan>
