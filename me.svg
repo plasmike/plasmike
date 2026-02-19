@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="930px" height="570px" font-size="16px" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="930px" height="590px" font-size="16px" fill="none">
   <style>
     @font-face {
     src: local('Consolas'), local('Consolas Bold');
@@ -21,7 +21,7 @@
     text, tspan {white-space: pre;}
   </style>
 
-  <rect width="930" height="570" rx="20" fill="#1c1f26"/>
+  <rect width="930" height="590" rx="20" fill="#1c1f26"/>
 <text x="-150" y="30" fill="#c9d1d9" class="ascii">
     <tspan x="-150" y="50">                            e$$$      .c.                 </tspan>
     <tspan x="-150" y="70">                          4$$$$     ^$$$$$.                  </tspan>
@@ -53,34 +53,36 @@
 
   <text x="400" y="30" fill="#bcc4e6" font-size="20.5">
     <tspan x="400" y="30" class="keyword">class</tspan><tspan class="class_name"> Human</tspan>
-    <tspan x="400" y="50" class="keyword">    def</tspan><tspan class="function"> __init__</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>, </tspan><tspan class="parameter">first_name</tspan><tspan>):</tspan>
-    <tspan x="400" y="70" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">first_name </tspan><tspan>= first_name</tspan>
-    <tspan x="400" y="90" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">gender </tspan><tspan>= gender</tspan>
-    <tspan x="400" y="110" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">location </tspan><tspan>= location</tspan>
-    <tspan x="400" y="130" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">ethnicity </tspan><tspan>= ethnicity</tspan>
-    <tspan x="400" y="150" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">hobbies </tspan><tspan>= hobbies</tspan>
+    <tspan x="400" y="50" class="keyword">    def</tspan><tspan class="function"> __init__</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>, </tspan><tspan class="parameter">first_name</tspan><tspan>, </tspan><tspan class="parameter">gender</tspan><tspan>,</tspan>
+<tspan x="400" y="70" class="parameter">        location</tspan><tspan>, </tspan><tspan class="parameter"> ethnicity</tspan><tspan>, </tspan><tspan class="parameter">hobbies</tspan><tspan>):</tspan>
+<tspan x="400" y="90" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">first_name </tspan><tspan>= first_name</tspan>
+<tspan x="400" y="110" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">gender </tspan><tspan>= gender</tspan>
+<tspan x="400" y="130" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">location </tspan><tspan>= location</tspan>
+<tspan x="400" y="150" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">ethnicity </tspan><tspan>= ethnicity</tspan>
+<tspan x="400" y="170" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">hobbies </tspan><tspan>= hobbies</tspan>
 
 
-    <tspan x="400" y="190" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">energy </tspan><tspan>= </tspan><tspan class="value">1.0 </tspan><tspan class="comment">#0=tired;1=awake</tspan>
-    <tspan x="400" y="210" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">alive </tspan><tspan>= True</tspan>
+<tspan x="400" y="210" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">energy </tspan><tspan>= </tspan><tspan class="value">1.0 </tspan><tspan class="comment">#0=tired;1=awake</tspan>
+<tspan x="400" y="230" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">alive </tspan><tspan>= True</tspan>
 
 
-    <tspan x="400" y="250">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> eat</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
-    <tspan x="400" y="270">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> sleep</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
-    <tspan x="400" y="290">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> code</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+<tspan x="400" y="270">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> eat</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+<tspan x="400" y="290">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> sleep</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+<tspan x="400" y="310">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> code</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
 
-    <tspan x="400" y="330">plasmike </tspan><tspan class="object">= Human</tspan><tspan>(</tspan>
-    <tspan x="400" y="350" class="identifier">    first_name </tspan><tspan class="string">= "Mike"</tspan><tspan>,</tspan>
-    <tspan x="400" y="370" class="identifier">    gender </tspan><tspan class="string">= "male"</tspan><tspan>,</tspan>
-    <tspan x="400" y="390" class="identifier">    location </tspan><tspan class="string">= "Germany"</tspan><tspan>,</tspan>
-    <tspan x="400" y="410" class="identifier">    ethnicity </tspan><tspan class="string">= "Croatian"</tspan><tspan>,</tspan>
-    <tspan x="400" y="430" class="identifier">    hobbies </tspan><tspan class="string">= ["Programming"</tspan><tspan>,</tspan><tspan class="string">"Electronics"</tspan><tspan>, </tspan>
-    <tspan x="400" y="450" class="string">    "Volleyball "</tspan><tspan>,</tspan><tspan class="string">"Swimming"</tspan><tspan>])</tspan>
+<tspan x="400" y="350">plasmike </tspan><tspan class="object">= Human</tspan><tspan>(</tspan>
+<tspan x="400" y="370" class="identifier">    first_name </tspan><tspan class="string">= "Mike"</tspan><tspan>,</tspan>
+<tspan x="400" y="390" class="identifier">    gender </tspan><tspan class="string">= "male"</tspan><tspan>,</tspan>
+<tspan x="400" y="410" class="identifier">    location </tspan><tspan class="string">= "Germany"</tspan><tspan>,</tspan>
+<tspan x="400" y="430" class="identifier">    ethnicity </tspan><tspan class="string">= "Croatian"</tspan><tspan>,</tspan>
+<tspan x="400" y="450" class="identifier">    hobbies </tspan><tspan class="string">= ["Programming"</tspan><tspan>,</tspan><tspan class="string"> "Electronics"</tspan><tspan>, </tspan>
+<tspan x="400" y="470" class="string">    "Volleyball "</tspan><tspan>,</tspan><tspan class="string">"Swimming"</tspan><tspan>])</tspan>
 
-    <tspan x="400" y="490" class="keyword">while </tspan><tspan>plasmike.</tspan><tspan class="identifier">alive:</tspan>
-    <tspan x="400" y="510" class="keyword">    plasmike.</tspan><tspan class="function">eat</tspan><tspan>()</tspan>
-    <tspan x="400" y="530" class="keyword">    plasmike.</tspan><tspan class="function">sleep</tspan><tspan>()</tspan>
-    <tspan x="400" y="550" class="keyword">    plasmike.</tspan><tspan class="function">code</tspan><tspan>()</tspan>
+<tspan x="400" y="510" class="keyword">while </tspan><tspan>plasmike.</tspan><tspan class="identifier">alive:</tspan>
+<tspan x="400" y="530" class="keyword">    plasmike.</tspan><tspan class="function">eat</tspan><tspan>()</tspan>
+<tspan x="400" y="550" class="keyword">    plasmike.</tspan><tspan class="function">sleep</tspan><tspan>()</tspan>
+<tspan x="400" y="570" class="keyword">    plasmike.</tspan><tspan class="function">code</tspan><tspan>()</tspan>
+
 
   </text>
 </svg>
