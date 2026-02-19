@@ -1,9 +1,5 @@
-## Hi there 👋
-
-test
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/test.svg" width="400" height="400" alt="css-in-readme">
+    <img src="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/me.svg" width="930" height="570" alt="css-in-readme">
 </div>
 
 <!--
