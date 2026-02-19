@@ -65,9 +65,9 @@
     <tspan x="400" y="210" class="parameter">        self</tspan><tspan>.</tspan><tspan class="identifier">alive </tspan><tspan>= True</tspan>
 
 
-    <tspan x="400" y="250">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> eat</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>):</tspan>
-    <tspan x="400" y="270">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> sleep</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>):</tspan>
-    <tspan x="400" y="290">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> code</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>):</tspan>
+    <tspan x="400" y="250">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> eat</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+    <tspan x="400" y="270">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> sleep</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+    <tspan x="400" y="290">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> code</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
 
     <tspan x="400" y="330">plasmike </tspan><tspan class="object">= Human</tspan><tspan>(</tspan>
     <tspan x="400" y="350" class="identifier">    first_name </tspan><tspan class="string">= "Mike"</tspan><tspan>,</tspan>
