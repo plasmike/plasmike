@@ -1,0 +1,44 @@
+<text font-family="monospace" font-size="16">
+<tspan x="400" y="30" class="keyword">class</tspan><tspan class="class_name">Human:</tspan>
+<tspan x="400" y="50" class="keyword">  def</tspan><tspan class="class_name">__init__(self, first_name: str, gender: str, location: str, hobbies: List[str]):</tspan>
+<tspan x="400" y="70" class="keyword">    self.first_name</tspan><tspan class="class_name">= first_name</tspan>
+<tspan x="400" y="90" class="keyword">    self.gender</tspan><tspan class="class_name">= gender</tspan>
+<tspan x="400" y="110" class="keyword">    self.location</tspan><tspan class="class_name">= location</tspan>
+<tspan x="400" y="130" class="keyword">    self.ethnicity</tspan><tspan class="class_name">= ethnicity</tspan>
+<tspan x="400" y="150" class="keyword">    self.hobbies:</tspan><tspan class="class_name">List[str] = hobbies</tspan>
+
+<tspan x="400" y="190" class="keyword">    self.energy:</tspan><tspan class="class_name">float = 1.0 # 0 = exhausted; 1 = fully awake</tspan>
+<tspan x="400" y="210" class="keyword">    self.alive</tspan><tspan class="class_name">= True</tspan>
+
+<tspan x="400" y="250" class="keyword">  def</tspan><tspan class="class_name">eat(self):</tspan>
+<tspan x="400" y="270" class="keyword">    if</tspan><tspan class="class_name">not self.alive:</tspan>
+<tspan x="400" y="290" class="keyword">      return
+</tspan>
+<tspan x="400" y="310" class="keyword">    return</tspan><tspan class="class_name">min(1, self.energy + 0.33)</tspan>
+
+<tspan x="400" y="350" class="keyword">  def</tspan><tspan class="class_name">sleep(self):</tspan>
+<tspan x="400" y="370" class="keyword">    if</tspan><tspan class="class_name">not self.alive:</tspan>
+<tspan x="400" y="390" class="keyword">      return
+</tspan>
+<tspan x="400" y="410" class="keyword">    return</tspan><tspan class="class_name">min(1, self.energy + 0.8)</tspan>
+
+<tspan x="400" y="450" class="keyword">  def</tspan><tspan class="class_name">code(self):</tspan>
+<tspan x="400" y="470" class="keyword">    return</tspan><tspan class="class_name">max(0, self.energy - 0.5)</tspan>
+
+<tspan x="400" y="510" class="keyword">plasmike</tspan><tspan class="class_name">= Human(</tspan>
+<tspan x="400" y="530" class="keyword">  first_name</tspan><tspan class="class_name">= "Mike",</tspan>
+<tspan x="400" y="550" class="keyword">  gender</tspan><tspan class="class_name">= "male",</tspan>
+<tspan x="400" y="570" class="keyword">  location</tspan><tspan class="class_name">= "Germany",</tspan>
+<tspan x="400" y="590" class="keyword">  ethnicity</tspan><tspan class="class_name">= "Croatian",</tspan>
+<tspan x="400" y="610" class="keyword">  hobbies</tspan><tspan class="class_name">= ["Programming", "Electronics", "High Voltage", "Volleyball", "Swimming"]</tspan>
+<tspan x="400" y="630" class="keyword">)
+</tspan>
+
+<tspan x="400" y="670" class="keyword">while</tspan><tspan class="class_name">plasmike.alive:</tspan>
+<tspan x="400" y="690" class="keyword">  plasmike.eat()
+</tspan>
+<tspan x="400" y="710" class="keyword">  plasmike.sleep()
+</tspan>
+<tspan x="400" y="730" class="keyword">  plasmike.code()
+</tspan>
+</text>
