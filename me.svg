@@ -74,7 +74,7 @@
     <tspan x="400" y="370" class="identifier">    gender </tspan><tspan class="string">= "male"</tspan><tspan>,</tspan>
     <tspan x="400" y="390" class="identifier">    location </tspan><tspan class="string">= "Germany"</tspan><tspan>,</tspan>
     <tspan x="400" y="410" class="identifier">    ethnicity </tspan><tspan class="string">= "Croatian"</tspan><tspan>,</tspan>
-    <tspan x="400" y="430" class="identifier">    hobbies </tspan><tspan class="string">= ["Programming"</tspan><tspan>,</tspan><tspan class="string"> "Electronics"</tspan><tspan>, </tspan>
+    <tspan x="400" y="430" class="identifier">    hobbies </tspan><tspan class="string">= ["Programming"</tspan><tspan>,</tspan><tspan class="string">"Electronics"</tspan><tspan>, </tspan>
     <tspan x="400" y="450" class="string">    "Volleyball "</tspan><tspan>,</tspan><tspan class="string">"Swimming"</tspan><tspan>])</tspan>
 
     <tspan x="400" y="490" class="keyword">while </tspan><tspan>plasmike.</tspan><tspan class="identifier">alive:</tspan>
