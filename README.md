@@ -1,8 +1,10 @@
-<div align="center">
-    <!--<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/dark_mode.svg">
-    <img alt="my github readme" src="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/light_mode.svg">-->
-    <img src="./svgs/svg-foreignObject.svg">
-</div>
+<!--<div align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/dark_mode.svg">
+    <img alt="my github readme" src="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/light_mode.svg">
+    
+</div>-->
+
+<img src="./svgs/svg-foreignObject.svg">
 
 <!--
 **plasmike/plasmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
