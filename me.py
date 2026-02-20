@@ -19,7 +19,7 @@ plasmike = Human(
   first_name = "Mike",
   gender = "male",
   location = "Germany",
-  hobbies = ["Programming", "Electronics","Weightlifting", "Gaming", "3D Art"]
+  hobbies = ["Programming", "Electronics","Weightlifting", "Gaming", "3D Art"],
   skills = ["Python", "C++", "C", "Blender", "CAD", "3D Printing"])
 
 while plasmike.alive:
