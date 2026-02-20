@@ -1,12 +1,13 @@
 class Human:
   def __init__(self, first_name, gender,
-    location, hobbies, skills):
+    location, hobbies, skills, socials):
 
     self.first_name = first_name
     self.gender = gender
     self.location = location
     self.hobbies: List[str] = hobbies
     self.skills: List[str] = skills
+    self.socials: List[str] = socials
 
     self.energy: float = 1.0 # 0=tired; 1=awake
     self.alive = True
@@ -20,7 +21,9 @@ plasmike = Human(
   gender = "male",
   location = "Germany",
   hobbies = ["Programming", "Electronics","Weightlifting", "Gaming", "3D Art"],
-  skills = ["Python", "C++", "C", "Blender", "CAD", "3D Printing"])
+  skills = ["Python", "C++", "C", "Blender", "CAD", "3D Printing"],
+  socials = ["YouTube"]
+)
 
 while plasmike.alive:
   plasmike.eat()
