@@ -5,12 +5,6 @@
 </div>-->
 
 <img src="./svgs/svg-foreignObject.svg">
-  
-<svg height="100" width="200" xmlns="http://www.w3.org/2000/svg">
-  <a href="https://www.w3schools.com/graphics/" target="_blank">
-    <circle r="45" cx="50" cy="50" fill="red" />
-  </a>
-</svg>
 
 <!--
 **plasmike/plasmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
