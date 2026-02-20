@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://www.youtube.com/@plasmike" target="_blank">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/dark_mode.svg">
-    <img alt="my github readme" src="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/light_mode.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/dark_mode.svg">
+      <img alt="my github readme" src="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/light_mode.svg">
+    </picture>
   </a>
 </div>
 
