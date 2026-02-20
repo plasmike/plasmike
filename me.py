@@ -22,8 +22,7 @@ plasmike = Human(
   location = "Germany",
   hobbies = ["Programming", "Electronics","Weightlifting", "Gaming", "3D Art"],
   skills = ["Python", "C++", "C", "Blender", "CAD", "3D Printing"],
-  socials = ["YouTube"]
-)
+  socials = ["YouTube"])
 
 while plasmike.alive:
   plasmike.eat()
