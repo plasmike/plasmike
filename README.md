@@ -4,7 +4,9 @@
     
 </div>-->
 
-<img src="./svgs/svg-foreignObject.svg">
+<a href="https://www.youtube.com/" target="_blank">
+  <img src="./svgs/svg-foreignObject.svg">
+</a>
 
 <!--
 **plasmike/plasmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
