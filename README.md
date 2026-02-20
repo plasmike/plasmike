@@ -4,9 +4,7 @@
     
 </div>-->
 
-![Circle](https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/svg-foreignObject.svg)
-[Circle - Click Here](https://www.youtube.com/plasmike/)
-
+<img src="./svgs/svg-foreignObject.svg">
 
 <!--
 **plasmike/plasmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
