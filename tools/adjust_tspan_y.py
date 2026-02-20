@@ -3,7 +3,7 @@ import re
 input_file = "tspan_y_input.txt"
 output_file = "output_tspans.svg"
 
-y_offset = 20
+y_offset = 40
 
 
 adjusted_lines = []
