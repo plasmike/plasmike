@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/dark_mode.svg">
-    <img alt="my github readme" src="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/dark_mode.svg">
+    <img alt="my github readme" src="https://raw.githubusercontent.com/plasmike/plasmike/refs/heads/main/svgs/light_mode.svg">
   </picture>
 </div>
 
