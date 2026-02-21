@@ -5,3 +5,4 @@ me_copy.py
 ./tools/code_output.txt
 ./tools/output_tspans.txt
 ./tools/tspan_y_input.txt
+./tools/ascii_input.txt
