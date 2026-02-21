@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="940px" height="590px" font-size="16px" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="920px" height="510px" font-size="16px" fill="none">
   <style>
     @font-face {
     src: local('Consolas'), local('Consolas Bold');
@@ -21,65 +21,57 @@
     text, tspan {white-space: pre;}
   </style>
 
-  <rect width="940" height="590" rx="20" fill="#1c1f26"/>
-<text x="-150" y="30" fill="#c9d1d9" class="ascii">
-    <tspan x="-150" y="50">                            e$$$      .c.                 </tspan>
-    <tspan x="-150" y="70">                          4$$$$     ^$$$$$.                  </tspan>
-    <tspan x="-150" y="90">                          $$$$        $$$$$.                 </tspan>
-    <tspan x="-150" y="110">                         .$$$$         $$$$$                </tspan>
-    <tspan x="-150" y="130">                      z$$$$$$$$       $$$$$$b               </tspan>
-    <tspan x="-150" y="150">                     $$$$$$""          *$$$$$$.              </tspan>
-    <tspan x="-150" y="170">                     $$$$$                $$$$$r             </tspan>
-    <tspan x="-150" y="190">            \        $$$*     dc    ..    '$$$$b         </tspan>
-    <tspan x="-150" y="210">            4       $$$F      $F    $%     $$$$$       4  </tspan>
-    <tspan x="-150" y="230">            'r     4$$$L  .e$$$$$$$$$$bc    $$$$r      $   </tspan>
-    <tspan x="-150" y="250">             $.    '$$$$z$$$$$$$$$$$$$$$$$..$$$$$     z$   </tspan>
-    <tspan x="-150" y="270">             $$$c   $$$$$$$$$$$$$$$$$$$$$$$$$$$$F  .d$$*    </tspan>
-    <tspan x="-150" y="290">               "$$$. $$$$$$$$$$$$$$$$$$$$$$$$$$P z$$$"      </tspan>
-    <tspan x="-150" y="310">                  "$$b$$$$$$$$$$$$$$$$$$$$$$$$$d$$*         </tspan>
-    <tspan x="-150" y="330">                     "$$$$$$$$$$$$$$$$$$$$$$$$$P"             </tspan>
-    <tspan x="-150" y="350">         ^         .d$$$$$$$$$$$$$$$$$$$$$$$$"            </tspan>
-    <tspan x="-150" y="370">          "e   .e$$$$*"$$$$$$$$$$$$$$$$$$$$$$$$$$$$e..    </tspan>
-    <tspan x="-150" y="390">           *$$$$P"     ^$$$$$$$$$$$$$$$$$$$$P ""**$$$$      </tspan>
-    <tspan x="-150" y="410">            *"          $$$$$$$$$$$$$$$$$$$P              </tspan>
-    <tspan x="-150" y="430">                      .$$"*$$$$$$$$$$$$P**$$e             </tspan>
-    <tspan x="-150" y="450">                     z$P   J$$$$$$$$$$$e.  "$$c     .          </tspan>
-    <tspan x="-150" y="470">                    d$" .$$$$$$*""""*$$$$$F  "$$. .P        </tspan>
-    <tspan x="-150" y="490">             ^%e.  $$   4$$$"          ^$$     "$$"      </tspan>
-    <tspan x="-150" y="510">                "*$*     "$b           $$"       ^         </tspan>
-    <tspan x="-150" y="530">                           $r          $               </tspan>
-    <tspan x="-150" y="550">                            ".        $                 </tspan>
+  <rect width="920" height="510" rx="20" fill="#1c1f26"/>
+<text x="15" y="10" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="50">                  .</tspan>
+<tspan x="15" y="70">          .............</tspan>
+<tspan x="15" y="90">        ..................</tspan>
+<tspan x="15" y="110">     ..................::::</tspan>
+<tspan x="15" y="130">    ..........-------:::-:-.</tspan>
+<tspan x="15" y="150">   ......::::=++++++++++=--</tspan>
+<tspan x="15" y="170">   ...:--==+++++*********+:</tspan>
+<tspan x="15" y="190">  ...-====---=++******++**.</tspan>
+<tspan x="15" y="210">    :----==+====+*###***#+</tspan>
+<tspan x="15" y="230">  .  ::::..:=+:.:*@@+=*%@=</tspan>
+<tspan x="15" y="250"> .::.:--:::.::..::#@=.=##-</tspan>
+<tspan x="15" y="270"> ...::-==+++=-::::+@@@@@@=</tspan>
+<tspan x="15" y="290">  :::::-=++==-:...-%%@@@@=</tspan>
+<tspan x="15" y="310">   :.:::-==++=:: .=%#@@@@.</tspan>
+<tspan x="15" y="330">     .::::-----:.+#%@@@@+</tspan>
+<tspan x="15" y="350">      .:::..::..-+#*+*@@</tspan>
+<tspan x="15" y="370">      ..:....::-=**%@%@-</tspan>
+<tspan x="15" y="390">      ..   ..::=*#%@@%:</tspan>
+<tspan x="15" y="410">      .::.  ..::=*%@@=</tspan>
+<tspan x="15" y="430">       ::-=:::=++#%@@#.</tspan>
+<tspan x="15" y="450">       .:-+*==#%%@@@%+#</tspan>
 </text>
 
-  <text x="400" y="30" fill="#bcc4e6" font-size="20.5">
-    <tspan x="400" y="30" class="keyword">class</tspan><tspan class="class_name"> Human</tspan>
-    <tspan x="400" y="50">></tspan><tspan class="keyword">   def</tspan><tspan class="function"> __init__</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>, </tspan><tspan class="parameter">first_name</tspan><tspan>, </tspan>
-<tspan x="400" y="70" class="parameter">    gender</tspan><tspan>, </tspan><tspan class="parameter">location</tspan><tspan>, </tspan><tspan class="parameter">hobbies</tspan><tspan>, </tspan>
-<tspan x="400" y="90" class="parameter">    skills</tspan><tspan>, </tspan><tspan class="parameter">socials</tspan><tspan>): ...</tspan>
+
+<text x="380" y="30" fill="#bcc4e6" font-size="20.5">
+<tspan x="380" y="30" class="keyword">class</tspan><tspan class="class_name"> Human</tspan>
+<tspan x="380" y="50">></tspan><tspan class="keyword">   def</tspan><tspan class="function"> __init__</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>, </tspan><tspan class="parameter">first_name</tspan><tspan>, </tspan>
+<tspan x="380" y="70" class="parameter">    gender</tspan><tspan>, </tspan><tspan class="parameter">location</tspan><tspan>, </tspan><tspan class="parameter">hobbies</tspan><tspan>, </tspan>
+<tspan x="380" y="90" class="parameter">    skills</tspan><tspan>, </tspan><tspan class="parameter">socials</tspan><tspan>): ...</tspan>
 
 
-<tspan x="400" y="130">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> eat</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
-<tspan x="400" y="150">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> sleep</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
-<tspan x="400" y="170">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> code</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+<tspan x="380" y="130">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> eat</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+<tspan x="380" y="150">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> sleep</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+<tspan x="380" y="170">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> code</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
 
-<tspan x="400" y="210">plasmike </tspan><tspan class="object">= Human</tspan><tspan>(</tspan>
-<tspan x="400" y="230" class="identifier">    first_name </tspan><tspan class="string">= "mike"</tspan><tspan>,</tspan>
-<tspan x="400" y="250" class="identifier">    gender </tspan><tspan class="string">= "male"</tspan><tspan>,</tspan>
-<tspan x="400" y="270" class="identifier">    location </tspan><tspan class="string">= "Germany"</tspan><tspan>,</tspan>
-<tspan x="400" y="290" class="identifier">    hobbies </tspan><tspan>= [</tspan><tspan class="string">"Programming"</tspan><tspan>,</tspan><tspan class="string">"Electronics"</tspan><tspan>, </tspan>
-<tspan x="400" y="310" class="string">    "Weightlifting"</tspan><tspan>,</tspan><tspan class="string">"Gaming"</tspan>, <tspan class="string">"3D Art"</tspan><tspan>]</tspan>
-<tspan x="400" y="330" class="identifier">    skills </tspan><tspan>= [</tspan><tspan class="string">"Python"</tspan><tspan>,</tspan><tspan class="string">"C++"</tspan><tspan>, </tspan><tspan class="string">"C"</tspan><tspan>, </tspan>
-<tspan x="400" y="350" class="string">    "Blender"</tspan><tspan>, </tspan><tspan class="string">"CAD"</tspan><tspan>, </tspan><tspan class="string">"3D Printing"</tspan><tspan>]</tspan>
-<tspan x="400" y="370" class="identifier">    socials </tspan><tspan>= [</tspan><a href="https://www.youtube.com/@plasmike" target="_blank"><tspan class="string">"YouTube"</tspan></a><tspan>])</tspan>
+<tspan x="380" y="210">plasmike </tspan><tspan class="object">= Human</tspan><tspan>(</tspan>
+<tspan x="380" y="230" class="identifier">    first_name </tspan><tspan class="string">= "mike"</tspan><tspan>,</tspan>
+<tspan x="380" y="250" class="identifier">    gender </tspan><tspan class="string">= "male"</tspan><tspan>,</tspan>
+<tspan x="380" y="270" class="identifier">    location </tspan><tspan class="string">= "Germany"</tspan><tspan>,</tspan>
+<tspan x="380" y="290" class="identifier">    hobbies </tspan><tspan>= [</tspan><tspan class="string">"Programming"</tspan><tspan>,</tspan><tspan class="string">"Electronics"</tspan><tspan>, </tspan>
+<tspan x="380" y="310" class="string">    "Weightlifting"</tspan><tspan>,</tspan><tspan class="string">"Gaming"</tspan>, <tspan class="string">"3D Art"</tspan><tspan>]</tspan>
+<tspan x="380" y="330" class="identifier">    skills </tspan><tspan>= [</tspan><tspan class="string">"Python"</tspan><tspan>,</tspan><tspan class="string">"C++"</tspan><tspan>, </tspan><tspan class="string">"C"</tspan><tspan>, </tspan>
+<tspan x="380" y="350" class="string">    "Blender"</tspan><tspan>, </tspan><tspan class="string">"CAD"</tspan><tspan>, </tspan><tspan class="string">"3D Printing"</tspan><tspan>]</tspan>
+<tspan x="380" y="370" class="identifier">    socials </tspan><tspan>= [</tspan><a href="https://www.youtube.com/@plasmike" target="_blank"><tspan class="string">"YouTube"</tspan></a><tspan>])</tspan>
 
-<tspan x="400" y="430" class="keyword">while </tspan><tspan>plasmike.</tspan><tspan class="identifier">alive:</tspan>
-<tspan x="400" y="450">    plasmike.</tspan><tspan class="function">eat</tspan><tspan>()</tspan>
-<tspan x="400" y="470">    plasmike.</tspan><tspan class="function">sleep</tspan><tspan>()</tspan>
-<tspan x="400" y="490">    plasmike.</tspan><tspan class="function">code</tspan><tspan>()</tspan>
-
-
-
-
+<tspan x="380" y="430" class="keyword">while </tspan><tspan>plasmike.</tspan><tspan class="identifier">alive:</tspan>
+<tspan x="380" y="450">    plasmike.</tspan><tspan class="function">eat</tspan><tspan>()</tspan>
+<tspan x="380" y="470">    plasmike.</tspan><tspan class="function">sleep</tspan><tspan>()</tspan>
+<tspan x="380" y="490">    plasmike.</tspan><tspan class="function">code</tspan><tspan>()</tspan>
 
   </text>
 </svg>
