@@ -1,4 +1,25 @@
-<tspan x="400" y="370" class="keyword">while </tspan><tspan>plasmike.</tspan><tspan class="identifier">alive:</tspan>
-<tspan x="400" y="390" class="keyword">    plasmike.</tspan><tspan class="function">eat</tspan><tspan>()</tspan>
-<tspan x="400" y="410" class="keyword">    plasmike.</tspan><tspan class="function">sleep</tspan><tspan>()</tspan>
-<tspan x="400" y="430" class="keyword">    plasmike.</tspan><tspan class="function">code</tspan><tspan>()</tspan>
+<text x="400" y="30" fill="#bcc4e6" font-size="20.5">
+<tspan x="400" y="30" class="keyword">class</tspan><tspan class="class_name"> Human</tspan>
+<tspan x="400" y="50">></tspan><tspan class="keyword">   def</tspan><tspan class="function"> __init__</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>, </tspan><tspan class="parameter">first_name</tspan><tspan>, </tspan>
+<tspan x="400" y="70" class="parameter">    gender</tspan><tspan>, </tspan><tspan class="parameter">location</tspan><tspan>, </tspan><tspan class="parameter">hobbies</tspan><tspan>, </tspan>
+<tspan x="400" y="90" class="parameter">    skills</tspan><tspan>, </tspan><tspan class="parameter">socials</tspan><tspan>): ...</tspan>
+
+
+<tspan x="400" y="130">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> eat</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+<tspan x="400" y="150">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> sleep</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+<tspan x="400" y="170">></tspan><tspan class ="keyword">    def</tspan><tspan class="function"> code</tspan><tspan>(</tspan><tspan class="parameter">self</tspan><tspan>): ...</tspan>
+
+<tspan x="400" y="210">plasmike </tspan><tspan class="object">= Human</tspan><tspan>(</tspan>
+<tspan x="400" y="230" class="identifier">    first_name </tspan><tspan class="string">= "mike"</tspan><tspan>,</tspan>
+<tspan x="400" y="250" class="identifier">    gender </tspan><tspan class="string">= "male"</tspan><tspan>,</tspan>
+<tspan x="400" y="270" class="identifier">    location </tspan><tspan class="string">= "Germany"</tspan><tspan>,</tspan>
+<tspan x="400" y="290" class="identifier">    hobbies </tspan><tspan>= [</tspan><tspan class="string">"Programming"</tspan><tspan>,</tspan><tspan class="string">"Electronics"</tspan><tspan>, </tspan>
+<tspan x="400" y="310" class="string">    "Weightlifting"</tspan><tspan>,</tspan><tspan class="string">"Gaming"</tspan>, <tspan class="string">"3D Art"</tspan><tspan>]</tspan>
+<tspan x="400" y="330" class="identifier">    skills </tspan><tspan>= [</tspan><tspan class="string">"Python"</tspan><tspan>,</tspan><tspan class="string">"C++"</tspan><tspan>, </tspan><tspan class="string">"C"</tspan><tspan>, </tspan>
+<tspan x="400" y="350" class="string">    "Blender"</tspan><tspan>, </tspan><tspan class="string">"CAD"</tspan><tspan>, </tspan><tspan class="string">"3D Printing"</tspan><tspan>]</tspan>
+<tspan x="400" y="370" class="identifier">    socials </tspan><tspan>= [</tspan><a href="https://www.youtube.com/@plasmike" target="_blank"><tspan class="string">"YouTube"</tspan></a><tspan>])</tspan>
+
+<tspan x="400" y="430" class="keyword">while </tspan><tspan>plasmike.</tspan><tspan class="identifier">alive:</tspan>
+<tspan x="400" y="450">    plasmike.</tspan><tspan class="function">eat</tspan><tspan>()</tspan>
+<tspan x="400" y="470">    plasmike.</tspan><tspan class="function">sleep</tspan><tspan>()</tspan>
+<tspan x="400" y="490">    plasmike.</tspan><tspan class="function">code</tspan><tspan>()</tspan>
