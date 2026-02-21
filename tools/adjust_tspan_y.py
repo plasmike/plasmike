@@ -3,7 +3,7 @@ import re
 input_file = "tspan_y_input.txt"
 output_file = "output_tspans.svg"
 
-y_offset = 40
+y_offset = -10
 
 
 adjusted_lines = []
@@ -16,7 +16,7 @@ with open(input_file, "r", encoding="utf-8") as f:
             start = line.find('y="') + 3
             end = line.find('"', start)
             old_y = line[start:end]
-            # add offset
+
             new_y = int(old_y) + y_offset
             # replace old y with new y
             new_line = line[:start] + str(new_y) + line[end:]
