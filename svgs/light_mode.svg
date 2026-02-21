@@ -9,41 +9,43 @@
     size-adjust: 109%;
     }
 
-    .keyword {fill: #C39DF2;}
-    .class_name {fill: #EED49F; font-weight: bold;}
-    .function {fill: #81A1E4;}
-    .identifier {fill: #81A1E4;}
-    .parameter {fill: #EB8695;}
-    .value {fill: #F5A980;}
-    .comment {fill: #7C829A;}
-    .object {fill: #EED49F;}
-    .string {fill: #A6DA95;}
+    text { fill: #2F4F6F; }
+
+    .keyword {fill: #6A4FB3;}
+    .class_name {fill: #9C6B00; font-weight: bold;}
+    .function {fill: #0B4F94;}
+    .identifier {fill: #6D8FD7;}
+    .parameter {fill: #A23A48;}
+    .value {fill: #B25C2F;}
+    .comment {fill: #6B7280z;}
+    .object {fill: #9C6B00;}
+    .string {fill: #19834E;}
     text, tspan {white-space: pre;}
   </style>
 
-  <rect width="920" height="510" rx="20" fill="#1c1f26"/>
+  <rect width="930" height="590" rx="20" fill="#F5F1E8"/>
 <text x="15" y="10" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="50">                  .</tspan>
-<tspan x="15" y="70">          .............</tspan>
-<tspan x="15" y="90">        ..................</tspan>
-<tspan x="15" y="110">     ..................::::</tspan>
-<tspan x="15" y="130">    ..........-------:::-:-.</tspan>
-<tspan x="15" y="150">   ......::::=++++++++++=--</tspan>
-<tspan x="15" y="170">   ...:--==+++++*********+:</tspan>
-<tspan x="15" y="190">  ...-====---=++******++**.</tspan>
-<tspan x="15" y="210">    :----==+====+*###***#+</tspan>
-<tspan x="15" y="230">  .  ::::..:=+:.:*@@+=*%@=</tspan>
-<tspan x="15" y="250"> .::.:--:::.::..::#@=.=##-</tspan>
-<tspan x="15" y="270"> ...::-==+++=-::::+@@@@@@=</tspan>
-<tspan x="15" y="290">  :::::-=++==-:...-%%@@@@=</tspan>
-<tspan x="15" y="310">   :.:::-==++=:: .=%#@@@@.</tspan>
-<tspan x="15" y="330">     .::::-----:.+#%@@@@+</tspan>
-<tspan x="15" y="350">      .:::..::..-+#*+*@@</tspan>
-<tspan x="15" y="370">      ..:....::-=**%@%@-</tspan>
-<tspan x="15" y="390">      ..   ..::=*#%@@%:</tspan>
-<tspan x="15" y="410">      .::.  ..::=*%@@=</tspan>
-<tspan x="15" y="430">       ::-=:::=++#%@@#.</tspan>
-<tspan x="15" y="450">       .:-+*==#%%@@@%+#</tspan>
+<tspan x="15" y="50">             :::..::</tspan>
+<tspan x="15" y="70">        .=#%%@@@@@@@%*=:</tspan>
+<tspan x="15" y="90">      -*@@@@@@@@@@@@@@@@#-</tspan>
+<tspan x="15" y="110">     *@@@@@@@@@@@@@@@@@@@@#</tspan>
+<tspan x="15" y="130">   :#@@@@@@@@@@@@@@@@@@@@@@.</tspan>
+<tspan x="15" y="150">  :@@@@@@@%%%%###***####@@%</tspan>
+<tspan x="15" y="170">  +@@@%%%####**++++====-+@*</tspan>
+<tspan x="15" y="190">  *@@%###%%%%#*++====+===#:</tspan>
+<tspan x="15" y="210">  +@%%%%%####%@%*+==+##++=</tspan>
+<tspan x="15" y="230">.-=@@@%%@@@%##@@%*-+##+==</tspan>
+<tspan x="15" y="250">+@%@@%%%%%%@%@@@@%=+@@**+</tspan>
+<tspan x="15" y="270">:#@@%%%%##**#%@@@@*=-=-:-</tspan>
+<tspan x="15" y="290">  #%@%%%####%%@@@@#+=--:-</tspan>
+<tspan x="15" y="310">  .+*%%%%####%@@@@*++---:</tspan>
+<tspan x="15" y="330">     *%%%%%%%%@@@#*+==-=</tspan>
+<tspan x="15" y="350">     *@%%@@@@@@@%#**#+=:</tspan>
+<tspan x="15" y="370">     =@@@@@@@@@%##*+++-</tspan>
+<tspan x="15" y="390">      @@@@@@@@%##*+==:</tspan>
+<tspan x="15" y="410">     =@%@@@@@@@@#*+=:</tspan>
+<tspan x="15" y="430">    :@@@%%%%@%##*+=--</tspan>
+<tspan x="15" y="450">    +@%%%#**##+=-:::-</tspan>
 </text>
 
 
